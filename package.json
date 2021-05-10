@@ -1,0 +1,15 @@
+{
+  "name": "ToDoList",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "socket.io": "2.2.0"
+  },
+  "repository": "https://github.com/kamiljanusztc/ToDoList-app.git",
+  "author": "Kamil Janusz <kamiljanusztc@gmail.com>"
+}
